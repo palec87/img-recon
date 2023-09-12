@@ -1,5 +1,5 @@
 # img-recon
-Various methods for image reconstruction for OPT and CS
+Various methods for image reconstruction for OPT and CS.
 
 ## Hadamard and SPC reconstructions
 Inspiration from works of 
